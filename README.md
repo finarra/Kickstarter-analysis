@@ -1,5 +1,6 @@
 # Kickstarter Campaign Data Analysis
 Throughout this paper, you will find a thorough and comprehensive analysis of the Kickstarter crowdfunding campaigns, with special focus on Theater and Plays, in the United States and Great Britain, from 2014 to 2017.
+
 ##Campaign Categories and outcomes.
 We found 9 parent categories in which the campaigns can be classified, amongst English and non english speaking countries, adding up to 4114 campaigns, being theater the most common with a total of 1393 campaigns, followed by music with 700, and technology with 600. The category with the most succesful campaigns is also theater, with 839, music being the second onde with 540 succesful campaigns and in third place comes film & video with 300 succesful campaigns. For a detailed description of the total camapigns by category, divided by succesful, failed, live and canceled campaigns, refer to the Global Parent Category Outcome Chart.
 INSERT GLOBAL PARENT CATEGORY OUTCOME CHART.
