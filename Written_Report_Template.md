@@ -31,11 +31,11 @@ There is a remarkable peak of succesful campaigns in May, being this the month w
 
 According to this analysis the most suitable time of the year to launch a campaign in order to achieve the goal set, between May and August.
 
-When we focus specially on plays, and the goals are taken into account, there is some overlapping in the percetages of succesful and failed campaigns and the different goals set. And notably, in the lower end of the scale, there is an inverse correlation between the goal set and the percentage of failed campaigns
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+When we focus specially on plays, and the goals are taken into account, there is some overlapping in the percetages of succesful and failed campaigns and the different goals set. Notably, there is a somewhat direct correlation between the goal set and the succesful campaigns and an indirect one between failed campaigns. However most of the campaign goals are set in the lower quartile, where there is no significant difference between the percentages of succes and failure, so there is not a normal distribution. 
 
-- What can you conclude about the Outcomes based on Goals?
+In conclusion, regarding the goals, the amount set is not the most important factor, however it should be taken into consideration that not a lot of projects set a goal over $15,000.00.
 
-- What are some limitations of this dataset?
+Also, in the financial aspect of the project, lies the greatest limitation of the dataset, because goals are set in local currencies, so differences in exchange rates, inflation rates, and local economic factors of each country must be taken into account in order to determine an appropriate goal for each campaign.
 
-- What are some other possible tables and/or graphs that we could create?
+An interesting analysis could be made regarding the number of backers pledging money to the campaign, and the average amount of money pledged, being these two parameters a surrogate marker for popularity, according to topic, category or country.
+
